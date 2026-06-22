@@ -1,15 +1,3 @@
-import sys
-import argparse
-import threading
-import numpy as np
-import matplotlib
-import matplotlib.colors as mcolors
-# Force Qt5 backend for Arch Linux GUI compatibility
-matplotlib.use('Qt5Agg') 
-import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-from scapy.all import sniff, RadioTap, Dot11Beacon
-
 '''   
 MIT License
 
@@ -35,7 +23,17 @@ SOFTWARE.
 '''
 
 
-
+import sys
+import argparse
+import threading
+import numpy as np
+import matplotlib
+import matplotlib.colors as mcolors
+# Force Qt5 backend for Arch Linux GUI compatibility
+matplotlib.use('Qt5Agg') 
+import matplotlib.pyplot as plt
+from matplotlib.animation import FuncAnimation
+from scapy.all import sniff, RadioTap, Dot11Beacon
 
 
 # --- ARGUMENT PARSING ---
