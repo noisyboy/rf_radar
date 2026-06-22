@@ -107,3 +107,9 @@ sudo python rf_radar.py -i wlan1 -b AA:BB:CC:DD:EE:FF -v heat
 ## Disclaimer
 
 This tool is designed for educational purposes, physics research, and authorized physical security auditing. Ensure you comply with all local laws and regulations regarding wireless network monitoring and packet capture in your jurisdiction.
+
+
+<img width="1912" height="1079" alt="image" src="https://github.com/user-attachments/assets/3a77af01-46ce-495c-91d2-b640f8a03b4a" />
+
+<img width="1906" height="1070" alt="image" src="https://github.com/user-attachments/assets/c83aadb3-4818-4131-a282-91505d51dbe9" />
+
